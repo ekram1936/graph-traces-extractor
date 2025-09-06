@@ -81,7 +81,7 @@ source gte-env/bin/activate
 ```
 5. **Install required packages**: Install the required packages using pip:
 ```bash
-pip install -r requirements.txt --proxy "http://webproxy.ext.ti.com:80"
+pip install -r requirements.txt"
 ```
 
 6. **Set up Tesseract-OCR**
@@ -119,4 +119,5 @@ If you encounter any issues while using the Graph Trace Extractor, try the follo
 * Check the log output for any error messages
 * Verify that the required packages are installed correctly
 * Try running the application in debug mode to get more detailed error messages
+
 
