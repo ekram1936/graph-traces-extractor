@@ -51,7 +51,7 @@ To select a folder, click on the "Select Folder" button and choose the folder co
 The application will process the images and extract the traces. This may take a few seconds, depending on the number of images and their complexity.
 
 #### Plot Display
-![Plot Display]assets/processed.png)
+![Plot Display](assets/processed.png)
 
 The extracted traces will be displayed as plots in the application window. You can zoom in and out, and pan the plot to view the data in more detail.
 
@@ -119,5 +119,6 @@ If you encounter any issues while using the Graph Trace Extractor, try the follo
 * Check the log output for any error messages
 * Verify that the required packages are installed correctly
 * Try running the application in debug mode to get more detailed error messages
+
 
 
