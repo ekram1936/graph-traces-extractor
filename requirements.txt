@@ -1,0 +1,7 @@
+customtkinter
+opencv-python
+matplotlib
+pytesseract
+pandas
+numpy
+Pillow
