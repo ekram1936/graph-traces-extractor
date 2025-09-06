@@ -12,7 +12,7 @@ Table of Contents
 
 ## Introduction
 The Graph Trace Extractor is a Python-based application designed to extract traces from graph images.
-![Title Selection](assest/GTE_workflow.png)
+![Title Selection](assets/GTE_workflow.png)
 
 ## Features
 * Extracts traces from graph images
@@ -36,27 +36,27 @@ To use the Graph Trace Extractor, follow these steps:
 The Graph Trace Extractor has a simple and intuitive interface. Here are some screenshots of the application:
 
 #### Main Window
-![Main Window](assest/open_app.png)
+![Main Window](assets/open_app.png)
 
 The main window of the application displays a list of available actions, including selecting a folder and processing images.
 
 #### Folder Selection
-![Folder Selection](assest/select_folder.png)
+![Folder Selection](assets/select_folder.png)
 
 To select a folder, click on the "Select Folder" button and choose the folder containing your graph images.
 
 #### Image Processing
-![Image Processing](assest/processing_graph.png)
+![Image Processing](assets/processing_graph.png)
 
 The application will process the images and extract the traces. This may take a few seconds, depending on the number of images and their complexity.
 
 #### Plot Display
-![Plot Display](assest/processed.png)
+![Plot Display]assets/processed.png)
 
 The extracted traces will be displayed as plots in the application window. You can zoom in and out, and pan the plot to view the data in more detail.
 
 #### CSV Export
-![CSV Export](assest/save_csv.png)
+![CSV Export](assets/save_csv.png)
 
 The extracted traces will also be saved as CSV files in the selected folder. You can open these files in any spreadsheet software to view and analyze the data.
 
@@ -119,3 +119,4 @@ If you encounter any issues while using the Graph Trace Extractor, try the follo
 * Check the log output for any error messages
 * Verify that the required packages are installed correctly
 * Try running the application in debug mode to get more detailed error messages
+
